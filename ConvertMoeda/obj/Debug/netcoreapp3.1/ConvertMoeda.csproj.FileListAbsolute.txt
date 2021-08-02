@@ -1,0 +1,15 @@
+D:\DS\ConvertMoeda\bin\Debug\netcoreapp3.1\ConvertMoeda.exe
+D:\DS\ConvertMoeda\bin\Debug\netcoreapp3.1\ConvertMoeda.deps.json
+D:\DS\ConvertMoeda\bin\Debug\netcoreapp3.1\ConvertMoeda.runtimeconfig.json
+D:\DS\ConvertMoeda\bin\Debug\netcoreapp3.1\ConvertMoeda.runtimeconfig.dev.json
+D:\DS\ConvertMoeda\bin\Debug\netcoreapp3.1\ConvertMoeda.dll
+D:\DS\ConvertMoeda\bin\Debug\netcoreapp3.1\ConvertMoeda.pdb
+D:\DS\ConvertMoeda\obj\Debug\netcoreapp3.1\ConvertMoeda.csprojAssemblyReference.cache
+D:\DS\ConvertMoeda\obj\Debug\netcoreapp3.1\ConvertMoeda.Form1.resources
+D:\DS\ConvertMoeda\obj\Debug\netcoreapp3.1\ConvertMoeda.csproj.GenerateResource.cache
+D:\DS\ConvertMoeda\obj\Debug\netcoreapp3.1\ConvertMoeda.AssemblyInfoInputs.cache
+D:\DS\ConvertMoeda\obj\Debug\netcoreapp3.1\ConvertMoeda.AssemblyInfo.cs
+D:\DS\ConvertMoeda\obj\Debug\netcoreapp3.1\ConvertMoeda.csproj.CoreCompileInputs.cache
+D:\DS\ConvertMoeda\obj\Debug\netcoreapp3.1\ConvertMoeda.dll
+D:\DS\ConvertMoeda\obj\Debug\netcoreapp3.1\ConvertMoeda.pdb
+D:\DS\ConvertMoeda\obj\Debug\netcoreapp3.1\ConvertMoeda.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qm5TLIRqlN5vBSBhXeN9KkXiTXY7AhDu1A96hxFOz6rdRCPbuA227DpjRT/GV0C58ziFn7qQLfVuH045+cqREg==",
+  "success": true,
+  "projectFilePath": "D:\\DS\\Fatoriall\\Fatoriall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

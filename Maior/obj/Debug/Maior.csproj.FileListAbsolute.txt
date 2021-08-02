@@ -1,0 +1,10 @@
+D:\DS\Maior\bin\Debug\Maior.exe.config
+D:\DS\Maior\bin\Debug\Maior.exe
+D:\DS\Maior\bin\Debug\Maior.pdb
+D:\DS\Maior\obj\Debug\Maior.csprojAssemblyReference.cache
+D:\DS\Maior\obj\Debug\Maior.Form1.resources
+D:\DS\Maior\obj\Debug\Maior.Properties.Resources.resources
+D:\DS\Maior\obj\Debug\Maior.csproj.GenerateResource.cache
+D:\DS\Maior\obj\Debug\Maior.csproj.CoreCompileInputs.cache
+D:\DS\Maior\obj\Debug\Maior.exe
+D:\DS\Maior\obj\Debug\Maior.pdb

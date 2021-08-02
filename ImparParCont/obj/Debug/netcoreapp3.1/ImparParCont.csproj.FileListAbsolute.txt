@@ -1,0 +1,15 @@
+D:\DS\ImparParCont\bin\Debug\netcoreapp3.1\ImparParCont.exe
+D:\DS\ImparParCont\bin\Debug\netcoreapp3.1\ImparParCont.deps.json
+D:\DS\ImparParCont\bin\Debug\netcoreapp3.1\ImparParCont.runtimeconfig.json
+D:\DS\ImparParCont\bin\Debug\netcoreapp3.1\ImparParCont.runtimeconfig.dev.json
+D:\DS\ImparParCont\bin\Debug\netcoreapp3.1\ImparParCont.dll
+D:\DS\ImparParCont\bin\Debug\netcoreapp3.1\ImparParCont.pdb
+D:\DS\ImparParCont\obj\Debug\netcoreapp3.1\ImparParCont.csprojAssemblyReference.cache
+D:\DS\ImparParCont\obj\Debug\netcoreapp3.1\ImparParCont.Form1.resources
+D:\DS\ImparParCont\obj\Debug\netcoreapp3.1\ImparParCont.csproj.GenerateResource.cache
+D:\DS\ImparParCont\obj\Debug\netcoreapp3.1\ImparParCont.AssemblyInfoInputs.cache
+D:\DS\ImparParCont\obj\Debug\netcoreapp3.1\ImparParCont.AssemblyInfo.cs
+D:\DS\ImparParCont\obj\Debug\netcoreapp3.1\ImparParCont.csproj.CoreCompileInputs.cache
+D:\DS\ImparParCont\obj\Debug\netcoreapp3.1\ImparParCont.dll
+D:\DS\ImparParCont\obj\Debug\netcoreapp3.1\ImparParCont.pdb
+D:\DS\ImparParCont\obj\Debug\netcoreapp3.1\ImparParCont.genruntimeconfig.cache

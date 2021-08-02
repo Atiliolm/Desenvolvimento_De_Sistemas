@@ -1,0 +1,9 @@
+D:\DS\IMC\bin\Debug\IMC.exe.config
+D:\DS\IMC\bin\Debug\IMC.exe
+D:\DS\IMC\bin\Debug\IMC.pdb
+D:\DS\IMC\obj\Debug\IMC.Form1.resources
+D:\DS\IMC\obj\Debug\IMC.Properties.Resources.resources
+D:\DS\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+D:\DS\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+D:\DS\IMC\obj\Debug\IMC.exe
+D:\DS\IMC\obj\Debug\IMC.pdb

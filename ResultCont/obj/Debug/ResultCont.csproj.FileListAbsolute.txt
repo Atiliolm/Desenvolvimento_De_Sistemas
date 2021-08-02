@@ -1,0 +1,10 @@
+D:\DS\ResultCont\bin\Debug\ResultCont.exe.config
+D:\DS\ResultCont\bin\Debug\ResultCont.exe
+D:\DS\ResultCont\bin\Debug\ResultCont.pdb
+D:\DS\ResultCont\obj\Debug\ResultCont.csprojAssemblyReference.cache
+D:\DS\ResultCont\obj\Debug\ResultCont.Form1.resources
+D:\DS\ResultCont\obj\Debug\ResultCont.Properties.Resources.resources
+D:\DS\ResultCont\obj\Debug\ResultCont.csproj.GenerateResource.cache
+D:\DS\ResultCont\obj\Debug\ResultCont.csproj.CoreCompileInputs.cache
+D:\DS\ResultCont\obj\Debug\ResultCont.exe
+D:\DS\ResultCont\obj\Debug\ResultCont.pdb

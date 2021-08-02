@@ -1,0 +1,10 @@
+D:\DS\lista_2_if\SaldoCheque\bin\Debug\SaldoCheque.exe.config
+D:\DS\lista_2_if\SaldoCheque\bin\Debug\SaldoCheque.exe
+D:\DS\lista_2_if\SaldoCheque\bin\Debug\SaldoCheque.pdb
+D:\DS\lista_2_if\SaldoCheque\obj\Debug\SaldoCheque.csprojAssemblyReference.cache
+D:\DS\lista_2_if\SaldoCheque\obj\Debug\SaldoCheque.Form1.resources
+D:\DS\lista_2_if\SaldoCheque\obj\Debug\SaldoCheque.Properties.Resources.resources
+D:\DS\lista_2_if\SaldoCheque\obj\Debug\SaldoCheque.csproj.GenerateResource.cache
+D:\DS\lista_2_if\SaldoCheque\obj\Debug\SaldoCheque.csproj.CoreCompileInputs.cache
+D:\DS\lista_2_if\SaldoCheque\obj\Debug\SaldoCheque.exe
+D:\DS\lista_2_if\SaldoCheque\obj\Debug\SaldoCheque.pdb

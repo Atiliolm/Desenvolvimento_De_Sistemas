@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9uXuEhaLaPQ7kFNvVT02Ib0ZlXeIPSKWCjCeNgBC6gA3z1oa+POIER3LcrktsPRtZrB+d0btQlbqOuc19vr3A==",
+  "success": true,
+  "projectFilePath": "D:\\DS\\ImparParCont\\ImparParCont.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

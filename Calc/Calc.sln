@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc.csproj", "{8B1EA6FE-B336-418B-BFDD-11217E78FEFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B1EA6FE-B336-418B-BFDD-11217E78FEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1EA6FE-B336-418B-BFDD-11217E78FEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1EA6FE-B336-418B-BFDD-11217E78FEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1EA6FE-B336-418B-BFDD-11217E78FEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA850254-03D4-4737-A2CE-7EDC18CF1B15}
+	EndGlobalSection
+EndGlobal

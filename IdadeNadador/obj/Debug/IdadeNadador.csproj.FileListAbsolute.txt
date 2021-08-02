@@ -1,0 +1,10 @@
+D:\DS\IdadeNadador\bin\Debug\IdadeNadador.exe.config
+D:\DS\IdadeNadador\bin\Debug\IdadeNadador.exe
+D:\DS\IdadeNadador\bin\Debug\IdadeNadador.pdb
+D:\DS\IdadeNadador\obj\Debug\IdadeNadador.csprojAssemblyReference.cache
+D:\DS\IdadeNadador\obj\Debug\IdadeNadador.Form1.resources
+D:\DS\IdadeNadador\obj\Debug\IdadeNadador.Properties.Resources.resources
+D:\DS\IdadeNadador\obj\Debug\IdadeNadador.csproj.GenerateResource.cache
+D:\DS\IdadeNadador\obj\Debug\IdadeNadador.csproj.CoreCompileInputs.cache
+D:\DS\IdadeNadador\obj\Debug\IdadeNadador.exe
+D:\DS\IdadeNadador\obj\Debug\IdadeNadador.pdb

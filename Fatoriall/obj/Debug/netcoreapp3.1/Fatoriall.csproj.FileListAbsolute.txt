@@ -1,0 +1,15 @@
+D:\DS\Fatoriall\obj\Debug\netcoreapp3.1\Fatoriall.csprojAssemblyReference.cache
+D:\DS\Fatoriall\obj\Debug\netcoreapp3.1\Fatoriall.Form1.resources
+D:\DS\Fatoriall\obj\Debug\netcoreapp3.1\Fatoriall.csproj.GenerateResource.cache
+D:\DS\Fatoriall\obj\Debug\netcoreapp3.1\Fatoriall.AssemblyInfoInputs.cache
+D:\DS\Fatoriall\obj\Debug\netcoreapp3.1\Fatoriall.AssemblyInfo.cs
+D:\DS\Fatoriall\obj\Debug\netcoreapp3.1\Fatoriall.csproj.CoreCompileInputs.cache
+D:\DS\Fatoriall\bin\Debug\netcoreapp3.1\Fatoriall.exe
+D:\DS\Fatoriall\bin\Debug\netcoreapp3.1\Fatoriall.deps.json
+D:\DS\Fatoriall\bin\Debug\netcoreapp3.1\Fatoriall.runtimeconfig.json
+D:\DS\Fatoriall\bin\Debug\netcoreapp3.1\Fatoriall.runtimeconfig.dev.json
+D:\DS\Fatoriall\bin\Debug\netcoreapp3.1\Fatoriall.dll
+D:\DS\Fatoriall\bin\Debug\netcoreapp3.1\Fatoriall.pdb
+D:\DS\Fatoriall\obj\Debug\netcoreapp3.1\Fatoriall.dll
+D:\DS\Fatoriall\obj\Debug\netcoreapp3.1\Fatoriall.pdb
+D:\DS\Fatoriall\obj\Debug\netcoreapp3.1\Fatoriall.genruntimeconfig.cache

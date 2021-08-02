@@ -1,0 +1,9 @@
+D:\DS\Calc\bin\Debug\Calc.exe.config
+D:\DS\Calc\bin\Debug\Calc.exe
+D:\DS\Calc\bin\Debug\Calc.pdb
+D:\DS\Calc\obj\Debug\Calc.Form1.resources
+D:\DS\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\DS\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+D:\DS\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+D:\DS\Calc\obj\Debug\Calc.exe
+D:\DS\Calc\obj\Debug\Calc.pdb

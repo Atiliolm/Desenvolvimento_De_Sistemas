@@ -1,0 +1,10 @@
+D:\DS\Diferença\bin\Debug\Diferença.exe.config
+D:\DS\Diferença\bin\Debug\Diferença.exe
+D:\DS\Diferença\bin\Debug\Diferença.pdb
+D:\DS\Diferença\obj\Debug\Diferença.csprojAssemblyReference.cache
+D:\DS\Diferença\obj\Debug\Diferença.Form1.resources
+D:\DS\Diferença\obj\Debug\Diferença.Properties.Resources.resources
+D:\DS\Diferença\obj\Debug\Diferença.csproj.GenerateResource.cache
+D:\DS\Diferença\obj\Debug\Diferença.csproj.CoreCompileInputs.cache
+D:\DS\Diferença\obj\Debug\Diferença.exe
+D:\DS\Diferença\obj\Debug\Diferença.pdb

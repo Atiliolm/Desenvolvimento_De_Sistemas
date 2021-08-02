@@ -1,0 +1,10 @@
+D:\DS\HorasTrabalhadas\obj\Debug\HorasTrabalhadas.csprojAssemblyReference.cache
+D:\DS\HorasTrabalhadas\obj\Debug\HorasTrabalhadas.Form1.resources
+D:\DS\HorasTrabalhadas\obj\Debug\HorasTrabalhadas.Properties.Resources.resources
+D:\DS\HorasTrabalhadas\obj\Debug\HorasTrabalhadas.csproj.GenerateResource.cache
+D:\DS\HorasTrabalhadas\obj\Debug\HorasTrabalhadas.csproj.CoreCompileInputs.cache
+D:\DS\HorasTrabalhadas\bin\Debug\HorasTrabalhadas.exe.config
+D:\DS\HorasTrabalhadas\bin\Debug\HorasTrabalhadas.exe
+D:\DS\HorasTrabalhadas\bin\Debug\HorasTrabalhadas.pdb
+D:\DS\HorasTrabalhadas\obj\Debug\HorasTrabalhadas.exe
+D:\DS\HorasTrabalhadas\obj\Debug\HorasTrabalhadas.pdb

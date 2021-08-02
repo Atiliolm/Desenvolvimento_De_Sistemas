@@ -1,0 +1,10 @@
+D:\DS\Idade\bin\Debug\Idade.exe.config
+D:\DS\Idade\bin\Debug\Idade.exe
+D:\DS\Idade\bin\Debug\Idade.pdb
+D:\DS\Idade\obj\Debug\Idade.csprojAssemblyReference.cache
+D:\DS\Idade\obj\Debug\Idade.Form1.resources
+D:\DS\Idade\obj\Debug\Idade.Properties.Resources.resources
+D:\DS\Idade\obj\Debug\Idade.csproj.GenerateResource.cache
+D:\DS\Idade\obj\Debug\Idade.csproj.CoreCompileInputs.cache
+D:\DS\Idade\obj\Debug\Idade.exe
+D:\DS\Idade\obj\Debug\Idade.pdb

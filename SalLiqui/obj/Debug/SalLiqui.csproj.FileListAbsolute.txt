@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\SalLiqui\bin\Debug\SalLiqui.exe.config
+C:\Users\user\source\repos\SalLiqui\bin\Debug\SalLiqui.exe
+C:\Users\user\source\repos\SalLiqui\bin\Debug\SalLiqui.pdb
+C:\Users\user\source\repos\SalLiqui\obj\Debug\SalLiqui.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SalLiqui\obj\Debug\SalLiqui.Form1.resources
+C:\Users\user\source\repos\SalLiqui\obj\Debug\SalLiqui.Properties.Resources.resources
+C:\Users\user\source\repos\SalLiqui\obj\Debug\SalLiqui.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SalLiqui\obj\Debug\SalLiqui.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SalLiqui\obj\Debug\SalLiqui.exe
+C:\Users\user\source\repos\SalLiqui\obj\Debug\SalLiqui.pdb

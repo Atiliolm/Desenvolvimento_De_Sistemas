@@ -1,0 +1,10 @@
+D:\DS\lista_2_if\Delta\bin\Debug\Delta.exe.config
+D:\DS\lista_2_if\Delta\bin\Debug\Delta.exe
+D:\DS\lista_2_if\Delta\bin\Debug\Delta.pdb
+D:\DS\lista_2_if\Delta\obj\Debug\Delta.csprojAssemblyReference.cache
+D:\DS\lista_2_if\Delta\obj\Debug\Delta.Form1.resources
+D:\DS\lista_2_if\Delta\obj\Debug\Delta.Properties.Resources.resources
+D:\DS\lista_2_if\Delta\obj\Debug\Delta.csproj.GenerateResource.cache
+D:\DS\lista_2_if\Delta\obj\Debug\Delta.csproj.CoreCompileInputs.cache
+D:\DS\lista_2_if\Delta\obj\Debug\Delta.exe
+D:\DS\lista_2_if\Delta\obj\Debug\Delta.pdb

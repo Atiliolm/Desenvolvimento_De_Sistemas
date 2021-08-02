@@ -1,0 +1,9 @@
+D:\DS\ParImpar\bin\Debug\ParImpar.exe.config
+D:\DS\ParImpar\bin\Debug\ParImpar.exe
+D:\DS\ParImpar\bin\Debug\ParImpar.pdb
+D:\DS\ParImpar\obj\Debug\ParImpar.Form1.resources
+D:\DS\ParImpar\obj\Debug\ParImpar.Properties.Resources.resources
+D:\DS\ParImpar\obj\Debug\ParImpar.csproj.GenerateResource.cache
+D:\DS\ParImpar\obj\Debug\ParImpar.csproj.CoreCompileInputs.cache
+D:\DS\ParImpar\obj\Debug\ParImpar.exe
+D:\DS\ParImpar\obj\Debug\ParImpar.pdb
